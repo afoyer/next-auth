@@ -42,6 +42,7 @@ module.exports = {
       'providers/linkedin',
       'providers/mixer',
       'providers/okta',
+      'providers/reddit',
       'providers/slack',
       'providers/spotify',
       'providers/twitch',
